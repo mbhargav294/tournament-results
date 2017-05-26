@@ -12,7 +12,7 @@ Instructions to run the code locally:
 * You can see all the results for all 10 test cases.
 
 
-## Tournament_extra directory (Supports multiple tournament):
+## Tournament_extra directory (Supports multiple tournaments):
 Instructions to run the code locally:
 * Enter `psql` on terminal to start PostgreSQL CLI. (Make sure you are in the `./tournament_extra` directory)
 * Enter the following query:
